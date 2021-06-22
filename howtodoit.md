@@ -50,7 +50,7 @@
 5. master로 merge 후 Branch 제거하기 
 
    ```bash
-   $ git checkou master #master브랜치로 돌아오기
+   $ git checkout master #master브랜치로 돌아오기
    $ git merge new #브랜치 merge하기
    $ git branch -d new #브랜치 삭제하기
    ```
